@@ -1,0 +1,6 @@
+ccxt
+pandas
+ta
+scikit-learn
+websocket-client
+numpy
